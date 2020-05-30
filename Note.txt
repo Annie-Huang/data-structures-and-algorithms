@@ -3,3 +3,5 @@ Linked List Data Structure | JavaScript: https://www.youtube.com/watch?v=ZBdE8DE
 https://gist.github.com/bradtraversy/c38f029e5f9e56a19c393d3a3b1e1544
 https://github.com/Annie-Huang/data-structures-and-algorithms
 
+Stack Data Structure | JavaScript
+https://www.youtube.com/watch?v=wtynhUwS5hI
